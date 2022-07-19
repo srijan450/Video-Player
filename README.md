@@ -6,4 +6,4 @@
 
 > skills used: ReactJs, Bootstrap, HTML, CSS, JS
 
-Link: https://srijan450.github.io/Video-Player/
+Link: https://srijan450.github.io/video-player/
